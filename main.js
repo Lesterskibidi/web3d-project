@@ -4,6 +4,7 @@ import { GLTFLoader } from "https://unpkg.com/three@0.160.0/examples/jsm/loaders
 
 import { OrbitControls } from "https://unpkg.com/three@0.160.0/examples/jsm/controls/OrbitControls.js";
 
+
 const MODEL_URL = "public/hoshinoglb.glb";
 const AUDIO_URL = "public/voice.mp3";
 
