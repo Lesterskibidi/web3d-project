@@ -5,8 +5,8 @@ import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader.js";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
 
 
-const MODEL_URL = "/hoshinoglb.glb";
-const AUDIO_URL = "/voice.mp3";
+const MODEL_URL = "./public/hoshinoglb.glb";
+const AUDIO_URL = "./public/voice.mp3";
 
 // ===== SCENE =====
 const scene = new THREE.Scene();
